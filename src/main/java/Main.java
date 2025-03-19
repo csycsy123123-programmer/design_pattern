@@ -1,3 +1,4 @@
+import builder.Computer;
 import factory.Factory;
 import factory.Shape;
 import observer.Phone;
@@ -22,6 +23,6 @@ public class Main {
         Factory factory = new Factory();
         Shape shape = factory.buildShape("Circle");
         shape.draw();
-
+        Computer computer = new Computer.Builder().withCpu("i7").build();
     }
 }
