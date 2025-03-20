@@ -1,4 +1,4 @@
-package builder;
+package design_pattern.builder;
 
 public class Computer {
     private final String cpu;

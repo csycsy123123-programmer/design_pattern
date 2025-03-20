@@ -1,4 +1,4 @@
-package factory;
+package design_pattern.factory;
 
 public class Circle implements Shape {
     public Circle() {

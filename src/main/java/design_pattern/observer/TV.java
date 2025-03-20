@@ -1,4 +1,4 @@
-package observer;
+package design_pattern.observer;
 
 public class TV implements Observer {
     @Override

@@ -1,9 +1,6 @@
-import builder.Computer;
-import factory.Factory;
-import factory.Shape;
-import observer.Phone;
-import observer.TV;
-import observer.WeatherStation;
+import design_pattern.builder.Computer;
+import design_pattern.factory.Factory;
+import design_pattern.factory.Shape;
 
 //TIP 要<b>运行</b>代码，请按 <shortcut actionId="Run"/> 或
 // 点击装订区域中的 <icon src="AllIcons.Actions.Execute"/> 图标。

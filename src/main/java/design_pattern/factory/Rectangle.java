@@ -1,4 +1,4 @@
-package factory;
+package design_pattern.factory;
 
 public class Rectangle implements Shape {
     public Rectangle() {
